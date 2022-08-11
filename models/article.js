@@ -9,6 +9,8 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
+      article.belongsTo(models.category);
+      article.hasMany(models.comment);
     }
   }
   article.init(

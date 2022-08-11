@@ -15,6 +15,7 @@ npx sequelize-cli model:generate --name category --attributes name:string
 Seeds:
 npx sequelize-cli seed:generate --name categories
 
+Relation in Model:
 `category.hasMany(models.article)`
 
 ### Articles
@@ -37,6 +38,7 @@ npx sequelize-cli model:generate --name article --attributes title:string,author
 Seeds:
 npx sequelize-cli seed:generate --name articles
 
+Relation in Model:
 `article.belongsTo(models.category)`
 `article.hasMany(models.comment)`
 
@@ -57,4 +59,5 @@ npx sequelize-cli model:generate --name comment --attributes name:string,comment
 Seeds:
 npx sequelize-cli seed:generate --name comments
 
+Relation in Model:
 `comment.belongsTo(models.article)`

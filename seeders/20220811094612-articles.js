@@ -11,7 +11,7 @@ module.exports = {
           author: "Wei-Chi Chou",
           content:
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-          // categoryId: "devops",
+          categoryId: "1",
           unixTimeStamp: 1588636800,
           publishDate: "Tuesday, 05 May 2020",
           imageUrl:
@@ -25,7 +25,7 @@ module.exports = {
           author: "Alastair Haigh",
           content:
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-          // categoryId: "frontend",
+          categoryId: "2",
           unixTimeStamp: 1588723200,
           publishDate: "Wednesday, 06 May 2020",
           imageUrl:
@@ -39,7 +39,7 @@ module.exports = {
           author: "Mario Nezmah",
           content:
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-          // categoryId: "frontend",
+          categoryId: "2",
           unixTimeStamp: 1588896000,
           publishDate: "Friday, 08 May 2020",
           imageUrl:
@@ -53,7 +53,7 @@ module.exports = {
           author: "Simona Winnekes",
           content:
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-          // categoryId: "devops",
+          categoryId: "1",
           unixTimeStamp: 1589068800,
           publishDate: "Sunday, 10 May 2020",
           imageUrl:
@@ -67,7 +67,7 @@ module.exports = {
           author: "Manon Bosselut",
           content:
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-          // categoryId: "backend",
+          categoryId: "3",
           unixTimeStamp: 1588982400,
           publishDate: "Saturday, 09 May 2020",
           imageUrl: "https://flaviocopes.com/deno/denologo.png",
@@ -80,7 +80,7 @@ module.exports = {
           author: "Manon Bosselut",
           content:
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-          // categoryId: "backend",
+          categoryId: "3",
           unixTimeStamp: 1588809600,
           publishDate: "Thursday, 07 May 2020",
           imageUrl:
